@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+    <TITLE> Метод confirm</TITLE>
+    <SCRIPT type="text/javascript">
+        function go(){
+            if (confirm("Хотите на прошлый урок?") )
+            {
+                parent.location='./3.13(1).html';
+                alert("Счастливого пути");
+            }
+            else
+            {
+                alert("Ладно уж, оставайтесь");
+                defaultStatus='Что сделано, то сделано';
+            }}
+    </SCRIPT>
+</HEAD>
+<BODY onload=go()>
+<P>Раз вы это читаете, значит, нажали отмену.
+</BODY>
+</HTML>

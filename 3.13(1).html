@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Открытие нового окна</title>
+    <script type="text/javascript">
+
+        function openIndex() {
+
+            const openWindow = window.open("", "newWindow", "height=300, width=300");
+            openWindow.document.write("<a href='' onclick='self.close()'>Эта дрянь, кхм кнопка, закроет окно</a>>");
+            openWindow.document.write("<html lang='en'>");
+            openWindow.document.write("<title>НОВОЕ ОКНО</title>>");
+            openWindow.document.write("<body bgcolor='fuchsia'>");
+            openWindow.document.write("<a href='3.1.html' target='main window'>Эта страница откроется в главном окне</a>");
+            openWindow.document.write("</html>");
+            self.name="main window";
+
+
+        }
+
+    </script>
+</head>
+<body onload="openIndex()">
+
+<form>
+    <input onclick="openIndex()" type="button" value="New Window">
+</form>
+</body>
+</html>

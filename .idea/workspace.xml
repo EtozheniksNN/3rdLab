@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15410623-9aae-4620-80e6-7d2c631440d2" name="Default Changelist" comment="" />
+    <list default="true" id="15410623-9aae-4620-80e6-7d2c631440d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.13(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for3.8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/arrows.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/boards.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bond-paper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bricks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dino.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/leo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rhino.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/roo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/roo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rude-pc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openedl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.8.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,17 +45,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/3.5.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3.9.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1XNqITDiA6S9uXP9RhSD6Y3rAfm" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Q:\fromGit\3rdLab" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,10 +92,22 @@
       <option name="presentableId" value="Default" />
       <updated>1580896819285</updated>
       <workItem from="1580896823422" duration="2459000" />
+      <workItem from="1580919888805" duration="6794000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+    <TITLE>Моя замечательная страница</TITLE>
+    <SCRIPT type="text/javascript">
+        function hello()
+        {
+            const first = prompt("Будьте добры, напишите свое имя");
+            const second  = prompt("Будьте добры, напишите свое отчество");
+            const page = document.location;
+            const ttl = document.title;
+            alert("Привет, " + first + " " + second + ". Добро пожаловать на " + ttl + " по адресу: " + page + "!")
+        }
+    </SCRIPT>
+</HEAD>
+<BODY onload=hello()>
+<H1 style="text-align: center;margin-top:300px;color: rebeccapurple">Моя страница</H1>
+</BODY>
+</HTML>

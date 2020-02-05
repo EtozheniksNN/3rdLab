@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+    <TITLE>Выбор цвета фона</TITLE>
+    <SCRIPT type="text/javascript">
+        function newColor(color)
+        {
+            alert("Вы выбрали " + color);
+            document.body.style.backgroundColor = color;
+        }
+    </SCRIPT>
+</HEAD>
+<BODY aLink=#d0550b bgColor=white link=#334775 text=#334775 vLink=#334775>
+<FONT face="Arial Cyr">
+    <P>Выбрать цвет фонa</P>
+    <FORM>
+        <P>&nbsp; <INPUT onclick="newColor('lightblue')" type=button value=Голубой>
+            &nbsp; <INPUT onclick="newColor('pink')" type=button value=Pозовый>
+            &nbsp; <INPUT onclick="newColor('white')" type=button value=Вернуть>
+    </FORM> </FONT>
+</BODY>
+</HTML>
