@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <title>Обработчики событий</title>
+</head>
+<body>
+<p align=center>
+    <a href="#" onClick="alert('Уже уходите!');"> Жмите сюда</a>
+<form>
+    <input type="text" size="30"
+           onFocus="window.status='Текст в строке состояния';">
+</form>
+<form>
+    <input type="text" size="45" value="Впишите свое имя и щелкните по другой
+  строке" onBlur="alert('Вы изменили ответ — уверены, что он правильный?');">
+</form>
+<form>
+    <input TYPE="text" size="45"
+           value="Измените текст и щелкните по другой строке"
+           onChange="window.status='Текст был изменен';">
+</form>
+<form>
+    <input TYPE="submit"
+           onSubmit="parent.location='thanksalot.html'";>
+</form>
+</body>
+</html>
