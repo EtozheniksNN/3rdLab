@@ -2,34 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15410623-9aae-4620-80e6-7d2c631440d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.13(1).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for3.8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/arrows.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/boards.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bond-paper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bricks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dino.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/leo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rhino.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/roo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/roo1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rude-pc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openedl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.18(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.18.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.19.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.20.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.21.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.18.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,6 +33,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/3.5.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/3.9.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3.21.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3.20.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3.19.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3.18.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1XNqITDiA6S9uXP9RhSD6Y3rAfm" />
   <component name="PropertiesComponent">
@@ -93,6 +79,7 @@
       <updated>1580896819285</updated>
       <workItem from="1580896823422" duration="2459000" />
       <workItem from="1580919888805" duration="6794000" />
+      <workItem from="1580985093867" duration="12058000" />
     </task>
     <servers />
   </component>
@@ -104,7 +91,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
