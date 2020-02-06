@@ -8,27 +8,20 @@
 </HEAD>
 <BODY>
 <FORM NAME="dataEntry">
-    <h2>Подтверждение данных</h2>
-    Введите свое имя:<br>
+    <h2>Data access</h2>
+    Input your name:<br>
     <INPUT id="nameField"    TYPE="text" NAME="fName"
            onBlur="validFunction(fName.value)">
 
 
 
-    <br>Введите номер телефона (ххх-хх-хх или ххххххх):<br>
+    <br>Input 7 or 9 numbers<br>
     <INPUT id="phoneField"  TYPE="text" NAME="phone" SIZE=10
     onblur="phoneValid()">
 
-    <INPUT  TYPE="button"  VALUE="Отправить"
+    <INPUT  TYPE="button"  VALUE="Send"
            onclick="phoneValid(phone.value)">
 </FORM>
 
-<UL>
-    <LI>Курсор стоит в поле для ввода имени. Ничего не пишите, нажмите tab или щелкните по странице.
-    <LI>Теперь введите имя и переходите к следующей строке.
-    <LI>Напечатайте 123 и нажмите «Отправить».
-    <LI>После сообщения об ошибке курсор снова стоит в поле для телефонного номера. Напечатайте 12д или /12 и нажмите «Отправить».
-    <LI>Напечатайте 1234567 и нажмите «Отправить».
-</UL>
 </BODY>
 </HTML>
